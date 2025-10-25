@@ -1,4 +1,4 @@
-# monitoring-n8n-with-grafana — Quick and simple
+# Monitoring N8N with Grafana — Quick and simple
 
 This repository contains a minimal, no‑fluff guide to monitor an n8n instance using Prometheus and Grafana.
 
