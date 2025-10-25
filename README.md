@@ -1,5 +1,8 @@
 # Monitoring N8N with Grafana — Quick and simple
 
+[![Watch on YouTube](https://img.youtube.com/vi/DOwn3dWbm78/maxresdefault.jpg)](https://www.youtube.com/watch?v=DOwn3dWbm78 "Watch on YouTube")
+
+
 This repository contains a minimal, no‑fluff guide to monitor an n8n instance using Prometheus and Grafana.
 
 Prerequisites
@@ -42,3 +45,5 @@ Files in this repo
 - N8N-GRAFANA.png                              ← dashboard screenshot preview
 
 That's it — enable metrics in n8n, have Prometheus scrape them, and import the included Grafana dashboard JSON to visualize.
+
+
